@@ -23,5 +23,6 @@ var Copy = function (options) {
     this.initServer = function() {
 
     }
+    this.init()
 }
 export default Copy

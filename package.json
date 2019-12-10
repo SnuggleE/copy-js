@@ -1,6 +1,6 @@
 {
   "name": "copy",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "a copy tool",
   "main": "index.js",
   "scripts": {
@@ -11,5 +11,8 @@
     "js"
   ],
   "author": "ljk (353239468@qq.com)",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+
+  }
 }
