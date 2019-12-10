@@ -1,0 +1,15 @@
+{
+  "name": "copy",
+  "version": "1.0.1",
+  "description": "a copy tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "copy",
+    "js"
+  ],
+  "author": "ljk (353239468@qq.com)",
+  "license": "ISC"
+}
